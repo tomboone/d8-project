@@ -26,6 +26,7 @@
         "drupal/core": "^8.7.0",
         "drupal/bootstrap": "^3.20",
         "drush/drush": "^9.0.0",
+        "tomboone/bootstrap_sass": "^1.0.0",
         "tomboone/d8-scripts": "^0.1.0",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
