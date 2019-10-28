@@ -17,7 +17,7 @@ To create a Drupal 8 instance from this project, just run:
 
 
 ## Using with Lando 
-To use the included Lando config, open `lando.yml` and in line 1 replace {LANDOPROJECT} with the name you'd like to give your project. Then run:
+To use the included Lando config, open `.lando.yml` and in line 1 replace {LANDOPROJECT} with the name you'd like to give your project. Then run:
 
 `lando start`
 
